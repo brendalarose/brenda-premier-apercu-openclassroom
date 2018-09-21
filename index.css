@@ -1,0 +1,248 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+
+/*menu du header*/
+
+.head{
+	padding: 15px;
+	height: 100px;
+}
+
+ul {
+    list-style-type: none;
+
+    
+}         
+
+li {
+	display: inline;
+}
+
+.lien{
+	margin-left: 50px; 
+}
+
+.lieen{
+	margin-left: 30px;
+}
+
+.lieen a{
+	font-size: 15px;
+}
+
+.orang{
+	color:orange;
+}
+
+li a{
+	text-decoration: none;
+	font-size: 20px;
+}
+
+ul li img{
+	width: 100px;
+}
+
+.liens{
+	width:820px;
+	float:left; 
+     
+}
+
+.blue{
+	color:blue;
+}
+
+.connection {
+	width:100px;
+	margin-left: 1060px;
+}
+
+.connection img{
+	margin-top: 30px;
+}
+
+.image{
+	width:20px;
+	margin-bottom: 10px;
+}
+
+.images{
+	width:60px;
+}
+
+
+
+.div3{
+	width:100%;
+	height: 480px;
+	overflow: hidden;
+}
+
+.secre{
+	width: 100%; 
+	
+}
+
+.secre img{
+	width:100%;
+
+}
+
+.para{
+	width: 100%;
+	position: relative;
+	margin-top: -30%;
+}
+
+.para p{
+	text-align: center;
+	color:grey;
+	font-size:50px; 
+}
+
+
+
+input{
+    width: 30%;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 40px;
+    margin-left: 400px;
+}
+
+.div4{
+	border: 1px solid black;
+	border-radius: 7px;
+	background-color: rgb(0,89,179);
+}
+
+.para1{
+	width:50%;
+	float:left;
+	color: white;
+}
+
+.div4 p a{
+	color: white;
+}
+
+.para2{
+	width:7%;
+	margin-left: 1160px; 
+    color: white;
+}
+
+.div5{
+	margin-top: 20px;
+}
+
+
+img{
+	width:220px;
+}
+
+.imag{
+	height: 148px;
+}
+
+
+div.img1 {
+  width: 220px;
+  background-color: white;
+  border: 2px solid black;
+  margin-bottom: 25px;
+  margin-left: 20px;
+  border-radius: 10px;
+  margin-top: 15px;
+  float:left;
+}
+
+div.reference {
+  text-align: center;
+  height: 50px;
+}
+
+div.date{
+	text-align: center;
+	border:1px solid;
+	border-radius: 0px 0px 10px 10px;
+}
+
+.reference p{
+	font-size: 20px;
+}
+
+.foot{
+	margin-top: 370px;
+	height: 250px;
+}
+
+.premierdiv{
+	float: left;
+	width: 220px;
+	margin-left: 50px;
+	height: 220px;
+
+}
+
+.deuxiemediv{
+	float: left;
+	width: 220px;
+	margin-left: 70px;
+	height: 220px;
+	
+}
+
+.troisiemediv{
+	float: left;
+	width: 220px;
+	margin-left: 70px;
+	height:220px;
+	
+}
+
+.quatriemediv{
+	float: left;
+	width: 300px;
+	margin-left: 70px;
+	height: 220px;
+	
+}
+
+select {
+    width: 120px;
+    padding: 5px 7px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+    margin-left: -190px;
+    margin-top: 20px;
+}
+
+.quatriemediv li{
+	display: inline;
+	margin-left: -200px;
+	
+
+}
+
+.lieeen img{
+	width: 40px;
+}
+
+.lieeeeen img{
+	width:40px;
+	border-radius: 30px;
+}
+
+.lieeeen img{
+	width: 50px;
+	margin-top: 30px;
+	
+
+}
+
